@@ -124,19 +124,11 @@ THE SOFTWARE.
 
 @angular/material/icon
 
-@angular/material/list
-
-@angular/material/menu
-
 @angular/material/progress-spinner
 
 @angular/material/select
 
-@angular/material/sidenav
-
 @angular/material/slider
-
-@angular/material/toolbar
 
 @angular/material/tooltip
 
